@@ -13,7 +13,7 @@ full-stack expertise and a passion for creating innovative solutions.</h3>
   
 - 👀 Interested in **ML, IoT**
 
-- 👨‍💻 All of my projects are available at [https://nadim-mahmud-rishan.web.app/](https://md-tanvirhasantonmoy.web.app/)
+- 👨‍💻 All of my projects are available at [https://nadim-mahmud-rishan.web.app/]()
 
 - 💬 Ask me about **MERN and Python**
 
