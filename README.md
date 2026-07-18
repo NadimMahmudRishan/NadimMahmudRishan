@@ -1,39 +1,199 @@
-[![MasterHead](https://i.ibb.co/3hSqvKn/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)]([https://tonmoy-Org.io](https://md-tanvirhasantonmoy.web.app/))
-<h1 align="center">Hi 👋, I'm NADIM MAHMUD RISHAN</h1>
-<h3 align="center">A passionate FULL STACK
-DEVELOPER | MERN from Bangladesh. Building seamless digital experiences with MERN stack, I bring
-full-stack expertise and a passion for creating innovative solutions.</h3>
-<img align="right" alt="Coding" width="350" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=1721260800&v=beta&t=aP2JTj48C16QdqLZ7fAU-fX9yqd7y-v7TjCSl8-rSO0">
-<p align="left"> 
-<!-- There is a mistaake in next line -->
-<img src="https://komarev.com/ghpvc/?username=tonmoy-org&label=Profile%20views&color=0e75b6&style=flat" alt="rishan" /> </p>
+<div align="center">
 
+# 👋 Hi, I'm Nadim Mahmud Rishan
 
-- 🔭 I’m currently working on **Web & App Development**
-  
-- 👀 Interested in **ML, IoT**
+### 🛡️ Penetration Tester | Cybersecurity Researcher | Offensive Security Enthusiast
 
-- 👨‍💻 All of my projects are available at [https://nadim-mahmud-rishan.web.app/]()
+*"Breaking systems to build stronger defenses."*
 
-- 💬 Ask me about **MERN and Python**
-
-- 📫 How to reach me **rishan35-952@diu.edu.bd**
-
-- ⚡ Fun fact **I am Funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/NadimRishan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishan" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/nadim-mahmud-rishan-09639b23b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nadim-mahmud-rishan" height="30" width="40" /></a>
-<a href="https://www.facebook.com/nmr.rishan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nmr.rishan" height="30" width="40" /></a>
-<a href="https://www.instagram.com/nadim_mahmud_rishan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nadim_mahmud_rishan" height="30" width="40" /></a>
+<p>
+  <a href="https://www.linkedin.com/in/nadim-mahmud-rishan">
+    <img src="https://img.shields.io/badge/LinkedIn-Nadim%20Mahmud%20Rishan-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:rishan.cyber@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-rishan.cyber%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://tryhackme.com/p/nmrishan">
+    <img src="https://img.shields.io/badge/TryHackMe-nmrishan-212C42?style=for-the-badge&logo=tryhackme" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=NadimMahmudRishan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nadimmahmudrishan&show_icons=true&locale=en&layout=compact" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nadimmahmudrishan&show_icons=true&locale=en" alt="nadimmahmudrishan" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NadimMahmudRishan&" alt="nadim-mahmud-rishan" /></p>
+## 💫 About Me
+
+I'm a passionate **Penetration Tester** and **Cybersecurity Researcher** with a strong interest in Offensive Security, Web Application Security, Network Security, and Vulnerability Assessment.
+
+I enjoy identifying security flaws, exploiting vulnerabilities in controlled environments, and helping organizations improve their security posture.
+
+- 🔭 Currently focusing on **Penetration Testing & Red Teaming**
+- 🌱 Learning **Active Directory, Cloud Security & Malware Analysis**
+- 💻 Passionate about **Ethical Hacking**
+- 🚩 Active on **TryHackMe**
+- 📫 Reach me at **rishan.cyber@gmail.com**
+
+---
+
+# 🛠️ Skills & Technologies
+
+### 🔐 Cybersecurity
+
+<p>
+<img src="https://img.shields.io/badge/Web%20Penetration%20Testing-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Network%20Security-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vulnerability%20Assessment-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API%20Security-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OWASP%20Top%2010-black?style=for-the-badge"/>
+</p>
+
+### ⚙️ Security Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,bash,python,mysql,git,github" />
+</p>
+
+- Burp Suite
+- Nmap
+- Wireshark
+- Metasploit
+- SQLMap
+- Nessus
+- OpenVAS
+- Nikto
+- Gobuster
+- FFUF
+- Hydra
+- John the Ripper
+
+---
+
+## 💻 Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,php,javascript,mysql,bash,git" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🛡️ AI-Powered Malware Detection
+
+Machine Learning-based malware detection system using PE Header analysis.
+
+**Tech Stack**
+
+- Python
+- Flask
+- Scikit-learn
+- PEfile
+- Random Forest
+
+---
+
+### 🔍 Penetration Testing Labs
+
+A collection of penetration testing labs, vulnerability assessments, exploitation techniques, and security write-ups.
+
+Topics include:
+
+- Web Security
+- Network Security
+- Enumeration
+- Privilege Escalation
+- Vulnerability Assessment
+
+---
+
+# 📚 Currently Learning
+
+- Active Directory Penetration Testing
+- Red Team Operations
+- Cloud Security
+- Mobile Application Security
+- Malware Analysis
+- Threat Hunting
+
+---
+
+# 🏆 Certifications & Platforms
+
+- 🛡️ TryHackMe
+- 🏴 Hack The Box
+- 🌐 PortSwigger Web Security Academy
+- 🚩 PicoCTF
+- 🔐 OverTheWire
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=NadimMahmudRishan&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadimMahmudRishan&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=NadimMahmudRishan&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=NadimMahmudRishan&theme=tokyonight&column=7&no-frame=true"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/nadim-mahmud-rishan">
+<img src="https://img.shields.io/badge/LinkedIn-Nadim%20Mahmud%20Rishan-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:rishan.cyber@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-rishan.cyber@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/NadimMahmudRishan">
+<img src="https://img.shields.io/badge/GitHub-NadimMahmudRishan-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://tryhackme.com/p/nmrishan">
+<img src="https://img.shields.io/badge/TryHackMe-nmrishan-212C42?style=for-the-badge&logo=tryhackme"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💡 Favorite Quote
+
+> **"Security is a journey, not a destination."**
+
+⭐ **If you like my work, consider following my GitHub profile!**
+
+</div>
